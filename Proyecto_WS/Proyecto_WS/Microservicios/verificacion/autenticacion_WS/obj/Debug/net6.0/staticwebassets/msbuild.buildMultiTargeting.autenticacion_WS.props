@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\autenticacion_WS.props" />
+</Project>

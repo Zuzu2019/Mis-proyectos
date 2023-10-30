@@ -1,0 +1,36 @@
+
+    html {
+    min-height: 100%;
+    position: relative;
+    }
+    body {
+    margin: 0;
+    margin-bottom: 40px;
+    }
+
+    footer {
+        background-color: rgb(14, 12, 12); 
+        position: absolute;
+        
+    }
+    nav {
+        font-family: 'Courier New', Courier, monospace;
+        color: black;
+    }
+    
+    h1 {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: left;
+    }  
+    .logo {
+        display: flex;
+        align-items: left;
+        letter-spacing: 3px;
+        font-size: 300%;
+        float: right;
+        font-family: fantasy;
+        color: rgb(253, 252, 252);
+    }
+    header {
+        background-color: rgb(8, 8, 7);
+    }

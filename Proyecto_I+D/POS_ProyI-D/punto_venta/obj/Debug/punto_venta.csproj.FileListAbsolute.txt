@@ -1,0 +1,197 @@
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\punto_venta.exe.config
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\punto_venta.exe
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\punto_venta.pdb
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.Form1.resources
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.Form2.resources
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.Form3.resources
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.Form4.resources
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.Properties.Resources.resources
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.exe
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.pdb
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.Form5.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe.config
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.pdb
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.dll
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.dll
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.xml
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.xml
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.AssemblyReference.cache
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form1.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form2.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form3.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form4.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form5.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Properties.Resources.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.GenerateResource.cache
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CoreCompileInputs.cache
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CopyComplete
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.exe
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pdb
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\bin\Debug\MD5.dll
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\MD5.dll
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\proyid\punto_venta\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.csproj.CopyComplete
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.pag_empleados.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe.config
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.pdb
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.dll
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\MD5.dll
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.dll
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.xml
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.xml
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.AssemblyReference.cache
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form1.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form2.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form3.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form4.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form5.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pag_empleados.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Properties.Resources.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.GenerateResource.cache
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CopyComplete
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.exe
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pdb
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.inventarioAdmin.resources
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.inventarioAdmin.resources
+C:\Users\USER\Desktop\proyid\punto_venta\obj\Debug\punto_venta.add_prod.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.add_prod.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pruebaDataBase.resources
+C:\Users\abdie\Documents\Primavera 2023\Proyectos I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Eliminar_producto.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.add_prod.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Eliminar_producto.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.inventarioAdmin.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pag_empleados.resources
+C:\Users\MARIAFLORESSANCHEZ\source\repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pruebaDataBase.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe.config
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.pdb
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\MD5.dll
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.dll
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.xml
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.AssemblyReference.cache
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.add_prod.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Eliminar_producto.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form1.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form2.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form3.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form4.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form5.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.inventarioAdmin.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pag_empleados.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Properties.Resources.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pruebaDataBase.resources
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.GenerateResource.cache
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CopyComplete
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.exe
+C:\Users\LENOVO THINKPAD L480\Source\Repos\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pdb
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe.config
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.pdb
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\MD5.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.add_prod.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Eliminar_producto.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form1.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form2.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form3.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form4.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form5.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.inventarioAdmin.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pag_datos.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pag_empleados.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Properties.Resources.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pruebaDataBase.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CopyComplete
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.exe
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pdb
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.cambiar_pass.resources
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\SpreadsheetLight.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\System.Drawing.Common.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\System.IO.Packaging.dll
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\SpreadsheetLight.xml
+C:\Users\USER\Desktop\proyidv2\POS_ProyI-D\punto_venta\bin\Debug\System.IO.Packaging.xml
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe.config
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.exe
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\punto_venta.pdb
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\MaterialSkin.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\MD5.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\SpreadsheetLight.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Drawing.Common.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\System.IO.Packaging.dll
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\SpreadsheetLight.xml
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\System.Data.SQLite.xml
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\bin\Debug\System.IO.Packaging.xml
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.AssemblyReference.cache
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.add_prod.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.cambiar_pass.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Eliminar_producto.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form1.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form2.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form3.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form4.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Form5.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.inventarioAdmin.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pag_datos.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pag_empleados.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.Properties.Resources.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pruebaDataBase.resources
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.GenerateResource.cache
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.csproj.CopyComplete
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.exe
+C:\Users\LENOVO THINKPAD L480\Documents\Proyecto_I+D\POS_ProyI-D\punto_venta\obj\Debug\punto_venta.pdb
