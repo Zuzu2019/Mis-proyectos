@@ -1,0 +1,42 @@
+/* ESTILOS DE CARD */
+
+.circle{
+    display:flex;
+    flex-direction: column;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    height: 152px;
+    width: 152px;
+    margin: 1rem;
+    padding: 2px;
+    background: rgb(241, 240, 244);
+    color: rgb(31, 68, 155);
+    font-size: 14px;
+ }
+
+ a {
+    text-decoration: none;
+ } 
+
+ 
+ .image {
+    width: 30px;
+    height: 30px;
+    padding-bottom: 3.5rem;
+ }
+
+
+ @media (max-width: 530px) {
+   .circle {
+      height: 135px;
+      width: 135px;
+      margin: 0.5rem;
+      padding: 2px;
+      font-size: 13px;
+     
+   }
+ }
+
+ 

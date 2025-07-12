@@ -1,0 +1,73 @@
+.productos-unidad {
+    justify-content: center;
+    align-items: center;
+    
+       h2 button {
+        font-weight: bold;
+        font-size: 20px;
+       }
+       .nombre-p {
+        font-weight: bold;
+        font-size: 20px;
+       }
+ 
+        .ord1 {
+            padding-top: 4rem;
+        }
+        
+        .ord2 {
+            padding-bottom: 3rem;
+        }
+        
+        .especific {
+            display: flex;
+        }
+        
+        .accordion {
+            padding-bottom: 3rem;
+        }
+
+        .carousel-indicators img {
+            width: 70px;
+            display: block;
+            border: 1px solid black;
+        
+        }
+        
+        .carousel-indicators button {
+            width: max-content!important;
+            margin-bottom: 4rem;
+        
+        }
+        .carousel-indicators {
+            position: relative;
+            display: flex;
+            flex-direction: column;  
+        }
+        
+        .carrusel-product {
+            display: flex; 
+        }
+
+        .accordion-header .accordion-button {
+            background: white;
+        }
+
+
+        @media (max-width: 400px) {
+            .imagen-productos {
+                width: 200px;
+                height: 200px;
+            }   
+        }
+        
+}
+
+
+
+
+
+
+
+
+
